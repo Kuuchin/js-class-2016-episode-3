@@ -7,5 +7,4 @@ window._app.global_ng_module
   this.fetch3Random = function() {
     return $http.get(URL);
   };
-
 }]);
